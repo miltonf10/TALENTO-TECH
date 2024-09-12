@@ -1,7 +1,8 @@
 .menu{
-    width: 40%;
+    
     justify-content: center;
     background-color: rgb(240, 240, 240);
+    text-decoration: none;
 }
 .aside{
     background-color: aliceblue;
